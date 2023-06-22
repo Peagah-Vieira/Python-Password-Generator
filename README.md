@@ -1,3 +1,4 @@
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/Peagah-Vieira/Password-Generator/blob/main/readme-ptBR.md)
 # Password Generator
 
 Secure password generator using Python, and Tkinter for GUI.
@@ -10,9 +11,7 @@ Secure password generator using Python, and Tkinter for GUI.
 
 ## Demonstration
 
-https://postimg.cc/XG2P1mwD
-
-https://postimg.cc/vg8jzb6V
+![pwd_app](https://github.com/Peagah-Vieira/Password-Generator/assets/105545343/03dc5881-789f-4ba6-a7b1-2e1fc43543e3)
 
 ## Documentation
 
